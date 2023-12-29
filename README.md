@@ -11,3 +11,11 @@ Depois de fazer isso, começaremos a examinar a média, a distribuição e quais
 
 **Hipótese 2**
 *Os usuários da região NY-NJ têm uma receita média diferente dos usuários de outras regiões.*
+
+**Ações a serem tomadas:**
+
+* Revisar a estrutura dos dataframes.
+* Modificar os dataframes conforme necessário (exemplo de tipo de dados em cada coluna).
+* Por ter várias tabelas com dados diferentes em cada uma, é necessário unificar todas as informações em uma única  tabela que permite fazer mais facilmente os cálculos tendo as informações de cada usuário, de acordo com seu plano, para cada mês que o serviço foi contratado.
+* Fazer uma análise através de gráficos para observar o comportamento de cada plano.
+* Conferir as hipóteses estabelecidas pela Megaline.
